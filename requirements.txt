@@ -1,3 +1,4 @@
-Flask
+flask
+fpdf
+pillow
 python-barcode
-Pillow
