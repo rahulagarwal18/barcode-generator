@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request, send_file
 from io import BytesIO
 from barcode_generator import generate_barcode_range_pdf
+import os
 
 app = Flask(__name__)
 
